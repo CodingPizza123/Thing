@@ -1,0 +1,6 @@
+import random
+Variable1=(random.randint(0,1))
+if Variable1 == 1:
+    print("Yes")
+if Variable1 == 0:
+    print("No")
